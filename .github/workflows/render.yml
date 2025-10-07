@@ -9,9 +9,7 @@ on:
         - main
 
 jobs:
-
   testing:
-
     name: Run Tests
     runs-on: ubuntu-latest
 
